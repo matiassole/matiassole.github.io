@@ -1,3 +1,5 @@
-## Welcome to Web Page of Matias!
+## Welcome to Matias' world!
 
-[Please visit my Super Pea Shooter comic!](https://matiassole.github.io/superpeashooter/)
+[Please visit my Super Pea Shooter comic!](/superpeashooter/)
+
+Also here is my game: [The finder that finds the lost items for a new campfire](/campfire/)
